@@ -4,5 +4,5 @@ un proyecto donde se crea un rig en Blender3D, luego se pasa a un proyecto VR de
 Por último se añade dentro de un BP para que sea manipulado en ejecución.
 
 
-![articulado_01](articulado_01.png)
+![articulado_02](articulado_02.png)
 
