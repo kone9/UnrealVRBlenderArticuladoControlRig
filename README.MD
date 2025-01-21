@@ -6,4 +6,4 @@ Por último se añade dentro de un BP para que sea manipulado en ejecución.
 
 ![articulado_02](articulado_02.png)
 
-![articulado_03](articulado_02.png)
+![articulado_03](articulado_03.png)
